@@ -46,4 +46,7 @@ resource:
 security:
   config:
     SecurityConfig
+storage:
+  config:
+    StorageEnclosureConfig
 
