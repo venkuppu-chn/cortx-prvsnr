@@ -52,6 +52,7 @@ __all__ = [
     'NodePrepareFirewall',
     'NodePrepareTime',
     'NodePrepareFirewall',
+    'NodePrepareTime',
     'StorageEnclosureConfig',
     'Commons'
  ]
